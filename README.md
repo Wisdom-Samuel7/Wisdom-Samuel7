@@ -12,7 +12,6 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Full Stack DEV at EM NETWORKS, gearing up to share valuable insights with the global coding community.
 
- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
  
 ## My Tech Channel 
 - [W-app](https://whatsapp.com/channel/0029Vag7E9y1SWsyzPBZAo1K)
@@ -36,6 +35,8 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 
 - 🌟 Completed Full Stack Development Course 2022 - Contributed to open source projects and celebrated the spirit of collaboration.
 
+
+ <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
 
 ## 📬 Get in Touch
 
