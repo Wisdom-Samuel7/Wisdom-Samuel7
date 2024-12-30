@@ -36,8 +36,6 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 - 🌟 Completed Full Stack Development Course 2022 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
-
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/knowurcraft-wisdom-samuel-775832239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
