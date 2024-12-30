@@ -1,6 +1,8 @@
 # Hi, I'm WISDOM SAMUEL! 👋
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+ <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
+
 I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Wisdom-Samuel7&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
@@ -14,8 +16,6 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 
 ## My Tech Channel 
 - [W-app](https://whatsapp.com/channel/0029Vag7E9y1SWsyzPBZAo1K)
-
--  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
