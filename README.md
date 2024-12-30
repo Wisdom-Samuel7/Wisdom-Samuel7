@@ -15,6 +15,8 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 ## My Tech Channel 
 - [W-app](https://whatsapp.com/channel/0029Vag7E9y1SWsyzPBZAo1K)
 
+-  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cwgf.gif">
+
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 ## Tech Stack
