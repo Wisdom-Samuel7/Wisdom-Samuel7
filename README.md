@@ -26,7 +26,8 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Nodejs, a powerful run time environment.
   - Diving into Machine Learning for efficient and scalable database management / performances.
-    
+
+    [![Wisdom-Samuel7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisdom-Samuel7)](https://github.com/Wisdom-Samuel7/github-readme-stats)
  ## 🏆 Achievements
 
 - 🌟 Completed Full Stack Development Course 2022 - Contributed to open source projects and celebrated the spirit of collaboration.
