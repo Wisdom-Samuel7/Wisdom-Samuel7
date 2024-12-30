@@ -1,5 +1,4 @@
 # Hi, I'm WISDOM SAMUEL! 👋
-[![MasterHead](header.png)](https://github.com/Wisdom-Samuel7)
 
 I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
@@ -28,7 +27,7 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
   - Building server-side applications with Nodejs, a powerful run time environment.
   - Diving into Machine Learning for efficient and scalable database management / performances.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdom-Samuel7&layout=donut)](https://github.com/Wisdom-Samuel7/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wisdom-Samuel7)](https://git.io/streak-stats)
  ## 🏆 Achievements
 
 - 🌟 Completed Full Stack Development Course 2022 - Contributed to open source projects and celebrated the spirit of collaboration.
