@@ -34,7 +34,7 @@ I am a passionate FULL STACK and MATH EXPERT, driven by a curiosity for technolo
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/knowurcraft-wisdom-samuel-775832239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/knowurcraft-wisdom-samuel-775832239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Learn more from my articles on [W-app](https://whatsapp.com/channel/0029Vag7E9y1SWsyzPBZAo1K)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
